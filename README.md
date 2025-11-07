@@ -81,7 +81,7 @@ Get paid fairly, instantly, and fully:
 
 > You keep 100% of your value. Always.
 
-### 8. **Fediverse Interoperability **(ActivityPub)  
+### 8. **Fediverse Interoperability** (ActivityPub)  
 CIVIKA is not an island. It’s a **node in a global ethical network**:  
 - Follow Mastodon, Pixelfed, PeerTube users directly  
 - Broadcast your posts across the Fediverse  
