@@ -95,7 +95,7 @@ AI as guardian, not judge:
 - Never censors—only **protects**  
 - **No data leaves your device** (local LLMs via Ollama integration)
 
-### 10. **Universal Basic Income **(UBI) in USDC  
+### 10. **Universal Basic Income** (UBI) in USDC  
 A radical economic model for digital dignity:  
 - **Monthly Fixed UBI**: Adjusted to local cost of life (e.g., Quilmes vs. Tokyo)  
 - **Daily Creation Bonus**: Earn USDC for ethical participation  
