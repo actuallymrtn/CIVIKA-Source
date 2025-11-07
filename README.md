@@ -118,7 +118,7 @@ Govern CIVIKA with your voice:
 
 ### 🔐 **Privacy by Default**
 - **No tracking, no ads, no profiling**  
-- **FOSS stack only **(F-Droid, Aurora Store compatible)  
+- **FOSS stack only** (F-Droid, Aurora Store compatible)  
 - **End-to-end encryption** for DMs and calls  
 - **On-device AI** (Ollama) — your data never leaves your control
 
